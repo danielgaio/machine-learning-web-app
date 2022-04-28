@@ -94,6 +94,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env-model/
+env-web/
 
 # Spyder project settings
 .spyderproject
